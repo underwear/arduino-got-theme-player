@@ -7,3 +7,6 @@ This sketch is a good foundation for making player for any melody.
 ## Setup
 - pin 12, 13, 8 for leds; (don't forget about transistors)
 - pin 3 for buzzer;
+
+## demo
+https://www.youtube.com/watch?v=Azlj2V7mcKQ
